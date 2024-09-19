@@ -7,5 +7,6 @@
 ###
 
 <div align="center">
+  visits:
   <img src="https://profile-counter.glitch.me/J-K-Tech/count.svg?"  />
 </div>
