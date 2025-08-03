@@ -10,8 +10,7 @@
   visits:
   <img src="https://profile-counter.glitch.me/J-K-Tech/count.svg?"  />
 </div>
-<iframe src="https://crystalsoft.neocities.org/donate"
-        width="100%"
-        height="400"
-        style="border:none;">
-</iframe>
+click to open donation page:
+<a href="https://crystalsoft.neocities.org/donate">
+  <img src="donate.png">
+</a>
