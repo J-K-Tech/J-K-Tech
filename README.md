@@ -10,3 +10,5 @@
   visits:
   <img src="https://profile-counter.glitch.me/J-K-Tech/count.svg?"  />
 </div>
+monero wallet:
+42u2wdZqjvpMvbWUUMk5nZ7vEGTGoTBoQKdECgovQF3oDJyxPc5tPPk8MyixGU5oWMbsmcgawcnQvJLuoZKryKhFPkQoEXY
